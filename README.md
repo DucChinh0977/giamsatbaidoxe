@@ -1,2 +1,8 @@
-# giamsatbaidoxe
-hệ thống áp dụng AI cho việc giám sát phương tiện giao thông 
+<div align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/logoDaiNam.png" width="150"> </p> <br>
+
+
+
+
+</br> </div>
